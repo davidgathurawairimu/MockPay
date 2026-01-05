@@ -1,0 +1,351 @@
+ID,Name,Department,Job Title,Hire Date,Status,Age,Gender,Location,Shift,Hours Worked,Hourly Rate,Monthly Pay
+1,Linda Jones,Operations,Customer Support Rep,16/07/2018,Part-time,60,Non-binary,Nakuru,6 AM - 2 PM,157,500,87920
+2,Robert Garcia,Finance,Software Engineer,09/12/2019,Full-time,43,Male,Thika,4 PM - 12 AM,121,700,91476
+3,Elizabeth Lopez,Operations,Software Engineer,22/10/2019,Full-time,59,Non-binary,Thika,6 AM - 2 PM,133,500,74480
+4,James Johnson,Operations,Operations Manager,08/04/2022,Full-time,53,Male,Nakuru,6 AM - 2 PM,153,500,85680
+5,Linda Martinez,Finance,Software Engineer,15/05/2020,Full-time,59,Male,Nairobi,4 PM - 12 AM,135,700,102060
+6,Patricia Hernandez,Customer Service,HR Specialist,13/04/2022,Full-time,54,Male,Thika,8 AM - 4 PM,151,450,71347.5
+7,Michael Brown,IT,Financial Analyst,02/10/2021,Part-time,36,Non-binary,Thika,9 AM - 5 PM,153,800,134640
+8,John Williams,IT,Customer Support Rep,10/02/2017,Full-time,57,Male,Thika,9 AM - 5 PM,159,800,139920
+9,Susan Martinez,Sales,Operations Manager,14/05/2025,Full-time,47,Male,Nairobi,10 AM - 6 PM,131,550,82857.5
+10,Robert Miller,Sales,Customer Support Rep,26/10/2021,Part-time,60,Non-binary,Nairobi,10 AM - 6 PM,128,550,80960
+11,James Jones,Operations,Sales Executive,19/12/2023,Full-time,28,Male,Thika,2 PM - 10 PM,172,500,96320
+12,John Hernandez,HR,HR Specialist,05/12/2023,Full-time,36,Non-binary,Kisumu,8 AM - 4 PM,131,600,82530
+13,John Hernandez,Finance,Financial Analyst,21/07/2025,Full-time,40,Non-binary,Kisumu,4 PM - 12 AM,163,700,123228
+14,James Davis,Operations,Financial Analyst,03/08/2018,Part-time,60,Male,Eldoret,6 AM - 2 PM,121,500,67760
+15,Susan Brown,Sales,Customer Support Rep,27/10/2016,Full-time,31,Female,Mombasa,10 AM - 6 PM,174,550,110055
+16,Patricia Williams,Finance,Financial Analyst,21/05/2024,Part-time,45,Non-binary,Kisumu,8 AM - 4 PM,175,700,132300
+17,Jennifer Miller,Customer Service,Customer Support Rep,06/06/2024,Full-time,60,Female,Eldoret,12 AM - 8 AM,137,450,64732.5
+18,James Johnson,IT,Software Engineer,04/06/2024,Full-time,27,Non-binary,Kisumu,9 AM - 5 PM,128,800,112640
+19,Susan Brown,IT,Operations Manager,09/08/2019,Part-time,48,Female,Mombasa,9 AM - 5 PM,125,800,110000
+20,Jennifer Martinez,Sales,Software Engineer,24/04/2022,Part-time,23,Male,Nairobi,10 AM - 6 PM,138,550,87285
+21,Michael Smith,Sales,HR Specialist,05/08/2025,Part-time,24,Non-binary,Mombasa,10 AM - 6 PM,130,550,82225
+22,Susan Miller,Operations,Operations Manager,06/10/2023,Full-time,43,Male,Nairobi,6 AM - 2 PM,164,500,91840
+23,Patricia Lopez,Operations,Financial Analyst,10/07/2023,Part-time,52,Female,Nairobi,6 AM - 2 PM,174,500,97440
+24,James Miller,HR,Customer Support Rep,31/01/2018,Part-time,56,Male,Mombasa,8 AM - 4 PM,149,600,93870
+25,Susan Smith,Sales,Sales Executive,16/01/2021,Full-time,41,Male,Thika,10 AM - 6 PM,160,550,101200
+26,John Johnson,Operations,Operations Manager,15/06/2023,Part-time,43,Male,Kisumu,6 AM - 2 PM,123,500,68880
+27,Michael Garcia,Customer Service,HR Specialist,05/05/2024,Full-time,44,Female,Eldoret,8 AM - 4 PM,155,450,73237.5
+28,Linda Lopez,Operations,Sales Executive,17/11/2019,Part-time,31,Non-binary,Nairobi,6 AM - 2 PM,161,500,90160
+29,John Williams,Finance,Financial Analyst,23/11/2024,Part-time,22,Male,Nairobi,4 PM - 12 AM,140,700,105840
+30,William Rodriguez,Finance,HR Specialist,28/02/2021,Full-time,59,Non-binary,Thika,8 AM - 4 PM,138,700,104328
+31,William Hernandez,Operations,Operations Manager,25/05/2016,Part-time,44,Male,Nairobi,2 PM - 10 PM,128,500,71680
+32,Susan Garcia,HR,Operations Manager,18/06/2020,Part-time,51,Female,Nakuru,8 AM - 4 PM,137,600,86310
+33,William Garcia,HR,HR Specialist,26/02/2017,Part-time,28,Non-binary,Nairobi,8 AM - 4 PM,165,600,103950
+34,Linda Miller,Sales,Sales Executive,06/09/2017,Full-time,48,Non-binary,Nairobi,10 AM - 6 PM,172,550,108790
+35,Susan Garcia,HR,Customer Support Rep,28/01/2021,Part-time,30,Non-binary,Nairobi,8 AM - 4 PM,163,600,102690
+36,Robert Rodriguez,Sales,HR Specialist,17/11/2025,Full-time,27,Male,Kisumu,10 AM - 6 PM,123,550,77797.5
+37,Susan Johnson,Sales,Financial Analyst,22/04/2020,Full-time,27,Female,Kisumu,10 AM - 6 PM,166,550,104995
+38,Robert Smith,Operations,Financial Analyst,30/09/2016,Part-time,40,Female,Nairobi,2 PM - 10 PM,177,500,99120
+39,William Hernandez,HR,HR Specialist,06/08/2021,Part-time,46,Female,Kisumu,8 AM - 4 PM,156,600,98280
+40,David Davis,Operations,HR Specialist,10/06/2017,Part-time,38,Non-binary,Thika,6 AM - 2 PM,168,500,94080
+41,John Smith,HR,Software Engineer,17/06/2016,Full-time,44,Male,Nairobi,8 AM - 4 PM,158,600,99540
+42,William Brown,IT,HR Specialist,15/10/2019,Full-time,25,Non-binary,Thika,9 AM - 5 PM,137,800,120560
+43,Linda Hernandez,IT,HR Specialist,06/05/2021,Part-time,58,Male,Kisumu,9 AM - 5 PM,125,800,110000
+44,Linda Jones,Finance,Customer Support Rep,22/07/2024,Part-time,23,Male,Thika,8 AM - 4 PM,168,700,127008
+45,William Garcia,IT,Financial Analyst,05/03/2016,Full-time,33,Male,Nairobi,9 AM - 5 PM,145,800,127600
+46,Mary Jones,HR,HR Specialist,02/11/2024,Full-time,59,Non-binary,Nairobi,8 AM - 4 PM,145,600,91350
+47,Mary Johnson,Finance,Operations Manager,09/07/2018,Part-time,39,Female,Thika,4 PM - 12 AM,167,700,126252
+48,Michael Lopez,Operations,Software Engineer,02/02/2016,Part-time,43,Female,Eldoret,2 PM - 10 PM,153,500,85680
+49,James Garcia,Finance,Customer Support Rep,13/11/2018,Part-time,48,Female,Nakuru,8 AM - 4 PM,130,700,98280
+50,Patricia Williams,IT,Customer Support Rep,17/11/2023,Part-time,26,Female,Nakuru,9 AM - 5 PM,140,800,123200
+51,Jennifer Hernandez,Operations,Operations Manager,26/12/2019,Full-time,23,Non-binary,Thika,6 AM - 2 PM,123,500,68880
+52,William Brown,Operations,Financial Analyst,09/05/2022,Part-time,43,Non-binary,Nairobi,2 PM - 10 PM,130,500,72800
+53,Jennifer Smith,Operations,HR Specialist,14/10/2023,Full-time,30,Female,Thika,6 AM - 2 PM,137,500,76720
+54,James Johnson,Sales,Sales Executive,17/11/2020,Part-time,44,Non-binary,Kisumu,10 AM - 6 PM,141,550,89182.5
+55,Robert Johnson,HR,HR Specialist,08/09/2017,Part-time,36,Male,Eldoret,8 AM - 4 PM,132,600,83160
+56,John Martinez,Operations,Operations Manager,13/09/2023,Part-time,58,Male,Nairobi,6 AM - 2 PM,121,500,67760
+57,Mary Jones,Finance,Operations Manager,10/12/2018,Full-time,27,Non-binary,Nakuru,8 AM - 4 PM,126,700,95256
+58,John Smith,HR,HR Specialist,19/09/2022,Part-time,25,Female,Nakuru,8 AM - 4 PM,160,600,100800
+59,Robert Miller,Operations,HR Specialist,28/04/2019,Part-time,37,Non-binary,Nairobi,2 PM - 10 PM,147,500,82320
+60,Elizabeth Garcia,Customer Service,Operations Manager,15/04/2022,Part-time,23,Male,Eldoret,12 AM - 8 AM,167,450,78907.5
+61,Susan Smith,Sales,HR Specialist,04/04/2024,Part-time,47,Non-binary,Kisumu,10 AM - 6 PM,144,550,91080
+62,Linda Jones,Operations,Software Engineer,17/02/2024,Full-time,35,Male,Thika,2 PM - 10 PM,120,500,67200
+63,Mary Smith,HR,Financial Analyst,23/06/2021,Part-time,36,Female,Kisumu,8 AM - 4 PM,131,600,82530
+64,Michael Williams,Customer Service,Software Engineer,19/02/2021,Part-time,41,Female,Nairobi,4 PM - 12 AM,129,450,60952.5
+65,Jennifer Miller,HR,Software Engineer,23/08/2020,Part-time,60,Female,Thika,8 AM - 4 PM,125,600,78750
+66,James Johnson,IT,Software Engineer,22/08/2018,Full-time,43,Male,Mombasa,9 AM - 5 PM,127,800,111760
+67,Elizabeth Martinez,Sales,Customer Support Rep,28/07/2020,Full-time,44,Non-binary,Mombasa,10 AM - 6 PM,147,550,92977.5
+68,Robert Jones,Customer Service,HR Specialist,24/07/2018,Part-time,47,Non-binary,Nakuru,8 AM - 4 PM,178,450,84105
+69,Susan Martinez,Sales,Customer Support Rep,10/11/2016,Part-time,49,Female,Mombasa,10 AM - 6 PM,126,550,79695
+70,Jennifer Hernandez,Finance,Software Engineer,22/03/2020,Full-time,43,Non-binary,Kisumu,4 PM - 12 AM,146,700,110376
+71,David Martinez,Customer Service,Sales Executive,23/05/2025,Part-time,22,Female,Eldoret,12 AM - 8 AM,141,450,66622.5
+72,Mary Rodriguez,Finance,Operations Manager,20/09/2021,Part-time,55,Non-binary,Thika,8 AM - 4 PM,167,700,126252
+73,Jennifer Garcia,Sales,Operations Manager,25/04/2024,Full-time,51,Male,Mombasa,10 AM - 6 PM,179,550,113217.5
+74,David Miller,Operations,Sales Executive,04/03/2021,Part-time,40,Non-binary,Nairobi,6 AM - 2 PM,146,500,81760
+75,Elizabeth Martinez,Operations,Financial Analyst,09/05/2016,Full-time,59,Female,Kisumu,2 PM - 10 PM,157,500,87920
+76,Mary Martinez,HR,Software Engineer,14/05/2022,Part-time,53,Non-binary,Eldoret,8 AM - 4 PM,147,600,92610
+77,William Brown,IT,Customer Support Rep,23/09/2018,Part-time,55,Non-binary,Nairobi,9 AM - 5 PM,167,800,146960
+78,Linda Miller,Sales,Operations Manager,10/07/2024,Full-time,25,Female,Kisumu,10 AM - 6 PM,149,550,94242.5
+79,Jennifer Brown,IT,Sales Executive,26/02/2019,Part-time,37,Male,Nakuru,9 AM - 5 PM,154,800,135520
+80,Robert Garcia,IT,Software Engineer,22/08/2021,Part-time,31,Female,Nakuru,9 AM - 5 PM,180,800,158400
+81,James Hernandez,IT,Sales Executive,23/02/2017,Full-time,26,Non-binary,Nakuru,9 AM - 5 PM,172,800,151360
+82,Mary Martinez,Finance,Financial Analyst,25/06/2024,Part-time,53,Male,Kisumu,4 PM - 12 AM,144,700,108864
+83,James Brown,HR,Software Engineer,24/01/2018,Full-time,48,Female,Thika,8 AM - 4 PM,123,600,77490
+84,Jennifer Lopez,HR,HR Specialist,30/03/2016,Part-time,40,Non-binary,Thika,8 AM - 4 PM,171,600,107730
+85,Elizabeth Garcia,Finance,Software Engineer,01/12/2020,Part-time,40,Male,Thika,8 AM - 4 PM,148,700,111888
+86,Mary Brown,Operations,Operations Manager,02/05/2022,Part-time,41,Non-binary,Nakuru,2 PM - 10 PM,176,500,98560
+87,Jennifer Garcia,Customer Service,Sales Executive,02/04/2021,Full-time,27,Non-binary,Kisumu,8 AM - 4 PM,148,450,69930
+88,Elizabeth Hernandez,Customer Service,Operations Manager,16/09/2022,Full-time,46,Female,Mombasa,8 AM - 4 PM,136,450,64260
+89,Jennifer Garcia,Sales,Software Engineer,08/07/2019,Full-time,40,Non-binary,Nairobi,10 AM - 6 PM,168,550,106260
+90,Mary Lopez,Sales,Financial Analyst,03/10/2017,Full-time,32,Male,Mombasa,10 AM - 6 PM,176,550,111320
+91,John Martinez,Customer Service,HR Specialist,03/02/2017,Full-time,39,Male,Mombasa,8 AM - 4 PM,141,450,66622.5
+92,Michael Smith,Customer Service,Sales Executive,22/12/2023,Full-time,37,Male,Nairobi,8 AM - 4 PM,165,450,77962.5
+93,Linda Williams,Sales,Financial Analyst,28/08/2023,Full-time,35,Female,Mombasa,10 AM - 6 PM,177,550,111952.5
+94,Susan Martinez,Sales,Software Engineer,23/07/2018,Full-time,42,Non-binary,Kisumu,10 AM - 6 PM,156,550,98670
+95,John Smith,Finance,HR Specialist,12/06/2017,Part-time,50,Male,Eldoret,8 AM - 4 PM,135,700,102060
+96,Michael Williams,Customer Service,Operations Manager,01/04/2021,Part-time,42,Female,Nakuru,12 AM - 8 AM,122,450,57645
+97,Linda Jones,Finance,Sales Executive,25/03/2025,Full-time,60,Male,Eldoret,8 AM - 4 PM,131,700,99036
+98,Jennifer Hernandez,Sales,Customer Support Rep,12/10/2019,Full-time,54,Male,Nairobi,10 AM - 6 PM,165,550,104362.5
+99,Susan Garcia,Finance,Software Engineer,31/01/2024,Full-time,49,Female,Thika,8 AM - 4 PM,151,700,114156
+100,Susan Garcia,Sales,Sales Executive,03/05/2016,Full-time,37,Non-binary,Kisumu,10 AM - 6 PM,177,550,111952.5
+101,James Lopez,Operations,HR Specialist,25/07/2021,Part-time,58,Male,Mombasa,6 AM - 2 PM,157,500,87920
+102,William Miller,Customer Service,Financial Analyst,26/02/2016,Full-time,24,Female,Nairobi,8 AM - 4 PM,175,450,82687.5
+103,Robert Rodriguez,Finance,Customer Support Rep,17/01/2024,Full-time,58,Non-binary,Nairobi,8 AM - 4 PM,154,700,116424
+104,Robert Smith,Customer Service,Software Engineer,07/07/2024,Part-time,52,Male,Nairobi,8 AM - 4 PM,129,450,60952.5
+105,William Johnson,Sales,HR Specialist,24/04/2016,Full-time,38,Non-binary,Kisumu,10 AM - 6 PM,133,550,84122.5
+106,Michael Johnson,Sales,Sales Executive,22/10/2016,Full-time,56,Male,Eldoret,10 AM - 6 PM,128,550,80960
+107,Michael Martinez,Operations,Operations Manager,23/04/2024,Part-time,51,Female,Nakuru,6 AM - 2 PM,125,500,70000
+108,James Smith,Sales,Sales Executive,15/08/2018,Part-time,27,Non-binary,Nakuru,10 AM - 6 PM,179,550,113217.5
+109,Elizabeth Williams,Customer Service,Customer Support Rep,16/03/2022,Part-time,51,Non-binary,Nairobi,12 AM - 8 AM,147,450,69457.5
+110,David Rodriguez,HR,Software Engineer,07/06/2017,Part-time,31,Male,Kisumu,8 AM - 4 PM,144,600,90720
+111,David Johnson,HR,Sales Executive,31/07/2023,Part-time,47,Male,Mombasa,8 AM - 4 PM,120,600,75600
+112,Linda Williams,Finance,Financial Analyst,02/09/2023,Part-time,45,Male,Nakuru,8 AM - 4 PM,165,700,124740
+113,John Jones,HR,Financial Analyst,14/07/2019,Part-time,60,Non-binary,Nakuru,8 AM - 4 PM,139,600,87570
+114,Linda Hernandez,Customer Service,Operations Manager,19/09/2017,Full-time,50,Male,Nakuru,8 AM - 4 PM,167,450,78907.5
+115,David Davis,Customer Service,Sales Executive,20/06/2016,Part-time,46,Male,Nakuru,8 AM - 4 PM,142,450,67095
+116,Elizabeth Smith,Operations,Software Engineer,03/05/2022,Part-time,60,Female,Nakuru,2 PM - 10 PM,178,500,99680
+117,Michael Brown,IT,Financial Analyst,14/09/2025,Part-time,34,Non-binary,Kisumu,9 AM - 5 PM,171,800,150480
+118,David Jones,Finance,Sales Executive,12/02/2020,Full-time,30,Non-binary,Mombasa,4 PM - 12 AM,170,700,128520
+119,Linda Davis,IT,HR Specialist,17/06/2022,Full-time,46,Non-binary,Mombasa,9 AM - 5 PM,146,800,128480
+120,John Lopez,IT,Customer Support Rep,15/08/2023,Part-time,38,Non-binary,Mombasa,9 AM - 5 PM,140,800,123200
+121,David Brown,Customer Service,Software Engineer,11/12/2017,Part-time,42,Female,Eldoret,12 AM - 8 AM,159,450,75127.5
+122,James Smith,Customer Service,Financial Analyst,17/09/2025,Full-time,45,Male,Nairobi,12 AM - 8 AM,128,450,60480
+123,Susan Johnson,IT,Software Engineer,20/10/2022,Part-time,53,Male,Nairobi,9 AM - 5 PM,130,800,114400
+124,David Jones,Finance,Sales Executive,09/12/2022,Part-time,44,Non-binary,Nairobi,4 PM - 12 AM,153,700,115668
+125,David Martinez,Sales,Operations Manager,06/11/2021,Part-time,53,Female,Eldoret,10 AM - 6 PM,168,550,106260
+126,Michael Miller,Customer Service,Sales Executive,18/08/2018,Part-time,41,Male,Eldoret,4 PM - 12 AM,126,450,59535
+127,Michael Brown,HR,Customer Support Rep,15/01/2021,Part-time,46,Male,Nairobi,8 AM - 4 PM,138,600,86940
+128,Linda Lopez,Sales,Software Engineer,01/10/2020,Part-time,38,Male,Kisumu,10 AM - 6 PM,139,550,87917.5
+129,James Rodriguez,IT,Customer Support Rep,26/05/2025,Part-time,34,Male,Eldoret,9 AM - 5 PM,157,800,138160
+130,Linda Johnson,Sales,Customer Support Rep,15/03/2019,Full-time,33,Non-binary,Eldoret,10 AM - 6 PM,153,550,96772.5
+131,John Miller,HR,Operations Manager,09/07/2017,Part-time,26,Male,Mombasa,8 AM - 4 PM,148,600,93240
+132,Patricia Rodriguez,IT,Software Engineer,09/05/2021,Full-time,54,Non-binary,Thika,9 AM - 5 PM,170,800,149600
+133,James Jones,Sales,Operations Manager,25/01/2018,Full-time,40,Non-binary,Nakuru,10 AM - 6 PM,122,550,77165
+134,Susan Johnson,HR,HR Specialist,17/11/2018,Part-time,60,Female,Eldoret,8 AM - 4 PM,170,600,107100
+135,James Hernandez,HR,HR Specialist,10/12/2016,Part-time,22,Non-binary,Kisumu,8 AM - 4 PM,160,600,100800
+136,Jennifer Smith,Customer Service,Operations Manager,19/02/2025,Part-time,35,Non-binary,Nakuru,4 PM - 12 AM,147,450,69457.5
+137,Patricia Lopez,HR,HR Specialist,16/01/2020,Full-time,57,Female,Thika,8 AM - 4 PM,130,600,81900
+138,David Williams,Sales,Financial Analyst,20/01/2023,Full-time,29,Male,Nairobi,10 AM - 6 PM,131,550,82857.5
+139,Linda Miller,HR,Software Engineer,21/05/2025,Part-time,50,Male,Mombasa,8 AM - 4 PM,124,600,78120
+140,Patricia Miller,HR,HR Specialist,07/12/2022,Part-time,50,Non-binary,Nairobi,8 AM - 4 PM,140,600,88200
+141,Jennifer Hernandez,Operations,Software Engineer,26/11/2018,Part-time,41,Male,Nakuru,6 AM - 2 PM,127,500,71120
+142,Elizabeth Hernandez,IT,Customer Support Rep,23/10/2024,Part-time,40,Female,Thika,9 AM - 5 PM,144,800,126720
+143,John Williams,IT,Operations Manager,12/08/2024,Part-time,28,Non-binary,Mombasa,9 AM - 5 PM,170,800,149600
+144,Jennifer Davis,Finance,Software Engineer,26/11/2023,Part-time,37,Female,Eldoret,8 AM - 4 PM,175,700,132300
+145,Linda Johnson,Customer Service,Financial Analyst,18/09/2018,Full-time,25,Non-binary,Eldoret,8 AM - 4 PM,148,450,69930
+146,David Davis,Finance,Financial Analyst,28/09/2018,Part-time,57,Female,Nakuru,8 AM - 4 PM,166,700,125496
+147,Linda Brown,IT,Customer Support Rep,25/10/2018,Full-time,56,Female,Mombasa,9 AM - 5 PM,124,800,109120
+148,Michael Williams,Operations,Software Engineer,13/05/2016,Part-time,30,Male,Kisumu,2 PM - 10 PM,139,500,77840
+149,Elizabeth Jones,HR,Operations Manager,23/01/2024,Part-time,46,Female,Mombasa,8 AM - 4 PM,133,600,83790
+150,Mary Davis,HR,Sales Executive,26/09/2017,Part-time,41,Non-binary,Kisumu,8 AM - 4 PM,172,600,108360
+151,John Martinez,Sales,HR Specialist,07/04/2021,Full-time,55,Male,Mombasa,10 AM - 6 PM,166,550,104995
+152,Robert Rodriguez,Finance,Software Engineer,16/01/2021,Part-time,43,Female,Nairobi,4 PM - 12 AM,159,700,120204
+153,Susan Jones,Finance,Customer Support Rep,13/07/2021,Part-time,30,Male,Kisumu,4 PM - 12 AM,144,700,108864
+154,Linda Davis,Operations,Sales Executive,01/02/2023,Part-time,51,Female,Nairobi,6 AM - 2 PM,155,500,86800
+155,Mary Rodriguez,Finance,Software Engineer,12/06/2016,Part-time,29,Non-binary,Kisumu,4 PM - 12 AM,121,700,91476
+156,William Davis,Customer Service,Financial Analyst,18/05/2023,Full-time,45,Male,Thika,4 PM - 12 AM,140,450,66150
+157,Elizabeth Johnson,Finance,Software Engineer,26/10/2016,Full-time,27,Male,Eldoret,4 PM - 12 AM,170,700,128520
+158,Jennifer Davis,Operations,HR Specialist,21/05/2022,Part-time,58,Non-binary,Eldoret,6 AM - 2 PM,157,500,87920
+159,Linda Davis,Finance,Financial Analyst,30/01/2024,Full-time,52,Female,Nairobi,4 PM - 12 AM,170,700,128520
+160,Robert Garcia,Sales,Software Engineer,10/06/2019,Full-time,36,Non-binary,Kisumu,10 AM - 6 PM,155,550,98037.5
+161,John Lopez,Operations,Customer Support Rep,24/06/2019,Part-time,40,Male,Mombasa,2 PM - 10 PM,163,500,91280
+162,Mary Smith,Sales,Customer Support Rep,13/04/2020,Part-time,29,Male,Eldoret,10 AM - 6 PM,120,550,75900
+163,Mary Martinez,Finance,Customer Support Rep,10/07/2018,Full-time,30,Male,Thika,4 PM - 12 AM,176,700,133056
+164,Patricia Brown,Operations,Operations Manager,13/01/2019,Full-time,23,Non-binary,Kisumu,6 AM - 2 PM,146,500,81760
+165,James Davis,Customer Service,Financial Analyst,27/05/2017,Part-time,34,Female,Nakuru,4 PM - 12 AM,153,450,72292.5
+166,Michael Brown,IT,Customer Support Rep,05/02/2023,Full-time,44,Male,Nairobi,9 AM - 5 PM,123,800,108240
+167,Linda Garcia,HR,Software Engineer,24/09/2020,Full-time,37,Non-binary,Thika,8 AM - 4 PM,129,600,81270
+168,Patricia Hernandez,Finance,Sales Executive,30/09/2022,Part-time,22,Female,Thika,4 PM - 12 AM,154,700,116424
+169,Patricia Williams,Sales,Sales Executive,13/05/2021,Full-time,23,Non-binary,Thika,10 AM - 6 PM,143,550,90447.5
+170,Robert Johnson,Operations,Operations Manager,18/11/2016,Full-time,59,Male,Mombasa,2 PM - 10 PM,169,500,94640
+171,Patricia Davis,Operations,Customer Support Rep,16/01/2024,Full-time,55,Male,Mombasa,6 AM - 2 PM,153,500,85680
+172,Robert Lopez,Sales,Financial Analyst,15/10/2017,Full-time,28,Non-binary,Eldoret,10 AM - 6 PM,156,550,98670
+173,Mary Lopez,Operations,Customer Support Rep,04/11/2024,Full-time,39,Non-binary,Nairobi,6 AM - 2 PM,125,500,70000
+174,Jennifer Rodriguez,Operations,Sales Executive,12/05/2017,Part-time,29,Non-binary,Nairobi,6 AM - 2 PM,160,500,89600
+175,Susan Garcia,Operations,Software Engineer,20/01/2024,Full-time,49,Non-binary,Mombasa,6 AM - 2 PM,134,500,75040
+176,Elizabeth Miller,Operations,Customer Support Rep,14/06/2023,Full-time,56,Male,Mombasa,2 PM - 10 PM,123,500,68880
+177,William Martinez,Sales,Customer Support Rep,25/02/2017,Full-time,57,Male,Eldoret,10 AM - 6 PM,138,550,87285
+178,David Hernandez,Operations,Customer Support Rep,28/06/2025,Full-time,56,Male,Nakuru,2 PM - 10 PM,159,500,89040
+179,John Rodriguez,Operations,Software Engineer,19/11/2017,Full-time,56,Non-binary,Kisumu,6 AM - 2 PM,170,500,95200
+180,Linda Garcia,Operations,Software Engineer,02/11/2025,Part-time,33,Female,Eldoret,6 AM - 2 PM,127,500,71120
+181,Linda Martinez,Customer Service,Operations Manager,13/10/2021,Part-time,44,Male,Mombasa,12 AM - 8 AM,142,450,67095
+182,Patricia Miller,Customer Service,HR Specialist,28/07/2017,Full-time,37,Non-binary,Eldoret,12 AM - 8 AM,151,450,71347.5
+183,Mary Lopez,Sales,Sales Executive,05/05/2022,Full-time,25,Male,Nakuru,10 AM - 6 PM,132,550,83490
+184,Patricia Jones,IT,Sales Executive,19/03/2022,Part-time,42,Female,Mombasa,9 AM - 5 PM,160,800,140800
+185,Jennifer Brown,Finance,Customer Support Rep,29/01/2024,Full-time,54,Male,Thika,8 AM - 4 PM,160,700,120960
+186,Robert Martinez,Finance,HR Specialist,21/12/2017,Full-time,24,Male,Thika,8 AM - 4 PM,178,700,134568
+187,Mary Davis,Finance,Operations Manager,31/07/2024,Part-time,39,Female,Nakuru,8 AM - 4 PM,121,700,91476
+188,David Brown,Finance,Customer Support Rep,16/01/2017,Part-time,32,Non-binary,Thika,8 AM - 4 PM,132,700,99792
+189,Elizabeth Martinez,Customer Service,Customer Support Rep,06/04/2017,Part-time,35,Female,Thika,4 PM - 12 AM,124,450,58590
+190,Jennifer Lopez,IT,Sales Executive,13/12/2018,Full-time,23,Non-binary,Eldoret,9 AM - 5 PM,169,800,148720
+191,David Martinez,IT,Operations Manager,11/08/2021,Full-time,30,Male,Nairobi,9 AM - 5 PM,146,800,128480
+192,Linda Miller,IT,Operations Manager,06/12/2018,Part-time,30,Female,Thika,9 AM - 5 PM,127,800,111760
+193,Susan Garcia,Finance,Financial Analyst,20/05/2016,Part-time,38,Non-binary,Nakuru,8 AM - 4 PM,135,700,102060
+194,John Williams,HR,Software Engineer,12/08/2025,Part-time,39,Male,Thika,8 AM - 4 PM,155,600,97650
+195,Mary Brown,IT,Sales Executive,14/07/2019,Full-time,46,Male,Eldoret,9 AM - 5 PM,176,800,154880
+196,David Miller,Customer Service,Sales Executive,20/02/2018,Part-time,38,Male,Mombasa,12 AM - 8 AM,129,450,60952.5
+197,Patricia Brown,Sales,Sales Executive,21/10/2020,Part-time,43,Female,Nairobi,10 AM - 6 PM,152,550,96140
+198,David Rodriguez,HR,HR Specialist,09/01/2017,Part-time,36,Male,Nairobi,8 AM - 4 PM,140,600,88200
+199,Linda Johnson,HR,Financial Analyst,02/06/2018,Full-time,57,Female,Thika,8 AM - 4 PM,149,600,93870
+200,John Rodriguez,Customer Service,Operations Manager,02/02/2018,Full-time,50,Non-binary,Mombasa,12 AM - 8 AM,170,450,80325
+201,Linda Martinez,HR,Operations Manager,17/04/2022,Full-time,60,Male,Nakuru,8 AM - 4 PM,177,600,111510
+202,John Johnson,HR,Customer Support Rep,20/07/2021,Part-time,38,Male,Thika,8 AM - 4 PM,166,600,104580
+203,Mary Jones,HR,Financial Analyst,05/06/2023,Part-time,28,Female,Mombasa,8 AM - 4 PM,124,600,78120
+204,Linda Garcia,Sales,Operations Manager,31/05/2017,Part-time,30,Non-binary,Eldoret,10 AM - 6 PM,144,550,91080
+205,Robert Martinez,Customer Service,Operations Manager,22/01/2016,Full-time,39,Female,Kisumu,12 AM - 8 AM,148,450,69930
+206,Patricia Smith,Finance,Software Engineer,31/01/2019,Full-time,27,Female,Thika,8 AM - 4 PM,170,700,128520
+207,Linda Johnson,Finance,Financial Analyst,22/02/2017,Part-time,40,Female,Nakuru,8 AM - 4 PM,160,700,120960
+208,Jennifer Brown,Operations,Operations Manager,15/03/2020,Full-time,28,Female,Kisumu,6 AM - 2 PM,140,500,78400
+209,Elizabeth Smith,Operations,Operations Manager,25/11/2021,Part-time,38,Male,Mombasa,6 AM - 2 PM,142,500,79520
+210,Susan Miller,Finance,Sales Executive,19/05/2019,Full-time,57,Female,Nakuru,4 PM - 12 AM,144,700,108864
+211,Linda Johnson,HR,Sales Executive,22/12/2019,Full-time,52,Non-binary,Eldoret,8 AM - 4 PM,145,600,91350
+212,Elizabeth Garcia,Finance,Operations Manager,19/06/2024,Full-time,57,Male,Nairobi,8 AM - 4 PM,162,700,122472
+213,David Johnson,HR,HR Specialist,17/06/2023,Full-time,56,Non-binary,Nakuru,8 AM - 4 PM,129,600,81270
+214,Robert Lopez,HR,Customer Support Rep,21/11/2023,Part-time,54,Female,Thika,8 AM - 4 PM,170,600,107100
+215,William Johnson,HR,HR Specialist,09/05/2022,Full-time,38,Female,Eldoret,8 AM - 4 PM,162,600,102060
+216,John Martinez,IT,HR Specialist,03/02/2021,Full-time,49,Female,Kisumu,9 AM - 5 PM,136,800,119680
+217,Mary Martinez,Sales,Customer Support Rep,14/05/2018,Part-time,32,Non-binary,Nakuru,10 AM - 6 PM,152,550,96140
+218,David Rodriguez,Operations,Customer Support Rep,20/03/2020,Full-time,37,Non-binary,Kisumu,6 AM - 2 PM,130,500,72800
+219,Patricia Williams,HR,Operations Manager,02/09/2021,Part-time,60,Male,Nakuru,8 AM - 4 PM,148,600,93240
+220,James Hernandez,HR,Sales Executive,27/07/2021,Full-time,42,Non-binary,Eldoret,8 AM - 4 PM,176,600,110880
+221,James Rodriguez,HR,Financial Analyst,21/11/2022,Part-time,34,Male,Kisumu,8 AM - 4 PM,160,600,100800
+222,Susan Brown,Operations,Customer Support Rep,22/05/2025,Full-time,41,Female,Mombasa,2 PM - 10 PM,120,500,67200
+223,John Rodriguez,Operations,Financial Analyst,11/12/2023,Part-time,51,Non-binary,Kisumu,6 AM - 2 PM,177,500,99120
+224,Michael Williams,Finance,Sales Executive,01/03/2016,Full-time,35,Male,Mombasa,4 PM - 12 AM,143,700,108108
+225,William Brown,Finance,Customer Support Rep,05/03/2019,Part-time,38,Male,Eldoret,4 PM - 12 AM,169,700,127764
+226,Jennifer Hernandez,Customer Service,Customer Support Rep,08/09/2016,Full-time,26,Male,Nairobi,12 AM - 8 AM,155,450,73237.5
+227,David Brown,Operations,HR Specialist,30/05/2023,Full-time,37,Non-binary,Eldoret,6 AM - 2 PM,137,500,76720
+228,Elizabeth Martinez,Sales,Sales Executive,18/09/2017,Part-time,60,Non-binary,Nakuru,10 AM - 6 PM,176,550,111320
+229,James Lopez,HR,Financial Analyst,13/09/2025,Part-time,54,Non-binary,Mombasa,8 AM - 4 PM,132,600,83160
+230,Robert Brown,Customer Service,Sales Executive,05/11/2019,Part-time,29,Non-binary,Thika,8 AM - 4 PM,158,450,74655
+231,Michael Smith,IT,Sales Executive,08/05/2021,Full-time,50,Non-binary,Kisumu,9 AM - 5 PM,177,800,155760
+232,James Lopez,Operations,Software Engineer,25/08/2025,Full-time,58,Male,Eldoret,6 AM - 2 PM,179,500,100240
+233,David Hernandez,Customer Service,HR Specialist,15/06/2019,Part-time,45,Male,Kisumu,4 PM - 12 AM,159,450,75127.5
+234,Elizabeth Smith,IT,Sales Executive,17/01/2020,Part-time,59,Non-binary,Eldoret,9 AM - 5 PM,158,800,139040
+235,Michael Martinez,Customer Service,Financial Analyst,25/10/2023,Part-time,56,Female,Kisumu,8 AM - 4 PM,126,450,59535
+236,Jennifer Rodriguez,Operations,Financial Analyst,26/01/2019,Full-time,39,Non-binary,Eldoret,6 AM - 2 PM,140,500,78400
+237,James Garcia,IT,Sales Executive,05/09/2024,Full-time,38,Female,Kisumu,9 AM - 5 PM,160,800,140800
+238,Elizabeth Garcia,Finance,HR Specialist,01/03/2021,Full-time,59,Female,Nakuru,4 PM - 12 AM,146,700,110376
+239,Elizabeth Rodriguez,Sales,Software Engineer,14/06/2021,Full-time,44,Non-binary,Mombasa,10 AM - 6 PM,167,550,105627.5
+240,Mary Garcia,Customer Service,Customer Support Rep,27/09/2020,Part-time,46,Non-binary,Thika,4 PM - 12 AM,159,450,75127.5
+241,Linda Garcia,Finance,Customer Support Rep,08/10/2018,Part-time,27,Female,Kisumu,8 AM - 4 PM,127,700,96012
+242,Elizabeth Williams,Operations,HR Specialist,14/10/2016,Full-time,30,Female,Nakuru,6 AM - 2 PM,133,500,74480
+243,Susan Johnson,HR,Customer Support Rep,21/11/2023,Full-time,55,Female,Thika,8 AM - 4 PM,121,600,76230
+244,Robert Martinez,HR,Customer Support Rep,16/02/2024,Full-time,26,Female,Eldoret,8 AM - 4 PM,172,600,108360
+245,John Jones,Sales,Financial Analyst,07/01/2021,Part-time,54,Female,Nakuru,10 AM - 6 PM,156,550,98670
+246,Elizabeth Lopez,Finance,Financial Analyst,10/10/2021,Part-time,60,Male,Eldoret,8 AM - 4 PM,177,700,133812
+247,Jennifer Miller,HR,Customer Support Rep,09/02/2018,Part-time,41,Male,Nairobi,8 AM - 4 PM,138,600,86940
+248,William Rodriguez,Sales,Financial Analyst,10/04/2019,Part-time,48,Female,Kisumu,10 AM - 6 PM,128,550,80960
+249,James Brown,IT,Customer Support Rep,18/12/2021,Part-time,55,Female,Mombasa,9 AM - 5 PM,158,800,139040
+250,Susan Jones,Customer Service,Sales Executive,06/11/2016,Part-time,25,Female,Mombasa,4 PM - 12 AM,167,450,78907.5
+251,Mary Miller,Finance,Software Engineer,16/08/2023,Part-time,50,Female,Eldoret,8 AM - 4 PM,166,700,125496
+252,John Smith,Finance,Software Engineer,05/08/2016,Full-time,49,Non-binary,Eldoret,4 PM - 12 AM,120,700,90720
+253,Susan Davis,IT,Financial Analyst,09/12/2018,Part-time,24,Female,Nakuru,9 AM - 5 PM,170,800,149600
+254,Patricia Jones,Customer Service,Operations Manager,12/11/2023,Full-time,58,Male,Nairobi,4 PM - 12 AM,120,450,56700
+255,William Williams,Finance,Software Engineer,03/09/2025,Part-time,24,Non-binary,Nairobi,8 AM - 4 PM,143,700,108108
+256,Jennifer Davis,Customer Service,Sales Executive,18/06/2019,Part-time,59,Non-binary,Thika,4 PM - 12 AM,134,450,63315
+257,Susan Johnson,HR,Customer Support Rep,15/12/2016,Part-time,29,Female,Nakuru,8 AM - 4 PM,175,600,110250
+258,Robert Smith,Operations,HR Specialist,17/12/2022,Part-time,23,Non-binary,Thika,6 AM - 2 PM,134,500,75040
+259,James Martinez,Customer Service,HR Specialist,14/07/2021,Part-time,31,Male,Mombasa,12 AM - 8 AM,164,450,77490
+260,Elizabeth Rodriguez,Finance,Operations Manager,16/04/2021,Part-time,28,Female,Kisumu,4 PM - 12 AM,161,700,121716
+261,Linda Martinez,HR,Software Engineer,17/10/2021,Part-time,27,Non-binary,Eldoret,8 AM - 4 PM,176,600,110880
+262,Jennifer Johnson,IT,Operations Manager,24/02/2016,Full-time,44,Male,Nakuru,9 AM - 5 PM,143,800,125840
+263,Susan Garcia,IT,Operations Manager,25/01/2020,Part-time,28,Male,Mombasa,9 AM - 5 PM,130,800,114400
+264,James Miller,Customer Service,Software Engineer,29/03/2020,Full-time,55,Non-binary,Nairobi,4 PM - 12 AM,168,450,79380
+265,David Johnson,HR,Sales Executive,19/07/2022,Part-time,27,Female,Kisumu,8 AM - 4 PM,132,600,83160
+266,Patricia Garcia,Finance,Financial Analyst,15/04/2020,Full-time,43,Non-binary,Nairobi,8 AM - 4 PM,124,700,93744
+267,Susan Smith,IT,Operations Manager,21/11/2025,Part-time,44,Female,Nakuru,9 AM - 5 PM,120,800,105600
+268,Patricia Davis,Finance,Customer Support Rep,03/05/2020,Part-time,60,Male,Kisumu,4 PM - 12 AM,129,700,97524
+269,Linda Williams,IT,Sales Executive,03/09/2017,Part-time,33,Non-binary,Mombasa,9 AM - 5 PM,178,800,156640
+270,Patricia Hernandez,HR,Software Engineer,12/07/2024,Part-time,27,Male,Thika,8 AM - 4 PM,138,600,86940
+271,James Johnson,HR,HR Specialist,26/12/2016,Full-time,42,Male,Kisumu,8 AM - 4 PM,136,600,85680
+272,Michael Jones,Finance,Operations Manager,11/01/2025,Full-time,44,Male,Mombasa,8 AM - 4 PM,136,700,102816
+273,Mary Brown,Operations,Operations Manager,02/12/2021,Full-time,44,Female,Nairobi,6 AM - 2 PM,123,500,68880
+274,Patricia Johnson,Sales,Customer Support Rep,03/09/2025,Part-time,58,Non-binary,Kisumu,10 AM - 6 PM,124,550,78430
+275,Susan Davis,Customer Service,Financial Analyst,15/07/2022,Full-time,52,Male,Eldoret,8 AM - 4 PM,152,450,71820
+276,Patricia Jones,Finance,Operations Manager,05/07/2025,Full-time,28,Non-binary,Thika,8 AM - 4 PM,131,700,99036
+277,William Johnson,Operations,HR Specialist,22/11/2018,Part-time,28,Female,Nairobi,2 PM - 10 PM,124,500,69440
+278,David Miller,Operations,Financial Analyst,12/05/2017,Part-time,41,Non-binary,Thika,2 PM - 10 PM,150,500,84000
+279,Linda Martinez,IT,Sales Executive,31/12/2019,Full-time,54,Male,Mombasa,9 AM - 5 PM,145,800,127600
+280,Susan Smith,Customer Service,Software Engineer,10/10/2024,Full-time,59,Non-binary,Mombasa,4 PM - 12 AM,144,450,68040
+281,Linda Martinez,IT,Sales Executive,17/10/2022,Full-time,32,Male,Kisumu,9 AM - 5 PM,152,800,133760
+282,Robert Miller,Finance,HR Specialist,10/12/2017,Full-time,27,Non-binary,Nakuru,4 PM - 12 AM,170,700,128520
+283,Patricia Lopez,Customer Service,Operations Manager,09/02/2019,Part-time,34,Male,Kisumu,8 AM - 4 PM,171,450,80797.5
+284,Patricia Lopez,IT,Operations Manager,27/06/2024,Full-time,54,Non-binary,Thika,9 AM - 5 PM,130,800,114400
+285,John Rodriguez,Customer Service,Customer Support Rep,05/05/2019,Full-time,46,Male,Nakuru,4 PM - 12 AM,126,450,59535
+286,Elizabeth Jones,IT,Software Engineer,13/03/2025,Part-time,23,Female,Nairobi,9 AM - 5 PM,131,800,115280
+287,James Lopez,Sales,HR Specialist,25/07/2019,Part-time,32,Non-binary,Nakuru,10 AM - 6 PM,157,550,99302.5
+288,Susan Brown,Operations,Customer Support Rep,18/01/2021,Full-time,36,Non-binary,Thika,6 AM - 2 PM,128,500,71680
+289,Robert Williams,Finance,Customer Support Rep,27/09/2024,Part-time,27,Female,Nairobi,4 PM - 12 AM,141,700,106596
+290,James Johnson,Finance,HR Specialist,22/02/2024,Part-time,38,Male,Eldoret,8 AM - 4 PM,132,700,99792
+291,Patricia Jones,Operations,Sales Executive,21/05/2025,Full-time,50,Non-binary,Nakuru,6 AM - 2 PM,169,500,94640
+292,Susan Jones,Customer Service,Customer Support Rep,07/04/2021,Part-time,56,Female,Nakuru,12 AM - 8 AM,159,450,75127.5
+293,Linda Brown,Customer Service,Financial Analyst,15/06/2020,Part-time,29,Non-binary,Nairobi,4 PM - 12 AM,150,450,70875
+294,Patricia Brown,IT,Customer Support Rep,15/03/2025,Part-time,44,Male,Nairobi,9 AM - 5 PM,125,800,110000
+295,Jennifer Martinez,Operations,Customer Support Rep,21/07/2022,Full-time,57,Male,Eldoret,2 PM - 10 PM,160,500,89600
+296,William Davis,Operations,Customer Support Rep,22/09/2017,Full-time,56,Male,Nairobi,2 PM - 10 PM,122,500,68320
+297,Robert Williams,IT,Software Engineer,06/06/2021,Full-time,32,Male,Thika,9 AM - 5 PM,169,800,148720
+298,John Smith,HR,Sales Executive,12/03/2017,Part-time,53,Female,Thika,8 AM - 4 PM,149,600,93870
+299,Mary Miller,Finance,HR Specialist,13/07/2016,Part-time,36,Non-binary,Mombasa,4 PM - 12 AM,171,700,129276
+300,Susan Martinez,IT,Sales Executive,13/08/2019,Part-time,53,Female,Nakuru,9 AM - 5 PM,145,800,127600
+301,David Hernandez,Operations,Operations Manager,16/08/2024,Part-time,30,Male,Mombasa,6 AM - 2 PM,147,500,82320
+302,Mary Garcia,Operations,Operations Manager,27/03/2016,Full-time,60,Male,Mombasa,2 PM - 10 PM,158,500,88480
+303,David Rodriguez,HR,Customer Support Rep,24/05/2018,Full-time,33,Non-binary,Mombasa,8 AM - 4 PM,122,600,76860
+304,Linda Brown,Operations,Sales Executive,15/05/2020,Full-time,23,Male,Thika,2 PM - 10 PM,136,500,76160
+305,Patricia Rodriguez,Customer Service,HR Specialist,04/12/2025,Part-time,36,Female,Eldoret,8 AM - 4 PM,120,450,56700
+306,John Hernandez,Operations,Customer Support Rep,23/10/2021,Part-time,23,Female,Mombasa,2 PM - 10 PM,177,500,99120
+307,William Martinez,Finance,Operations Manager,25/01/2019,Full-time,46,Male,Eldoret,4 PM - 12 AM,171,700,129276
+308,James Williams,HR,Financial Analyst,08/07/2019,Part-time,58,Male,Nairobi,8 AM - 4 PM,171,600,107730
+309,Susan Lopez,Sales,Software Engineer,20/06/2016,Part-time,23,Non-binary,Thika,10 AM - 6 PM,164,550,103730
+310,Michael Garcia,Customer Service,Software Engineer,29/06/2019,Part-time,44,Male,Eldoret,8 AM - 4 PM,123,450,58117.5
+311,Linda Garcia,Finance,HR Specialist,16/05/2022,Full-time,47,Non-binary,Thika,8 AM - 4 PM,177,700,133812
+312,Patricia Miller,IT,HR Specialist,02/08/2019,Full-time,43,Female,Thika,9 AM - 5 PM,163,800,143440
+313,James Johnson,Sales,Customer Support Rep,25/03/2016,Full-time,47,Female,Kisumu,10 AM - 6 PM,163,550,103097.5
+314,William Williams,HR,Software Engineer,02/11/2022,Part-time,50,Female,Nairobi,8 AM - 4 PM,171,600,107730
+315,David Lopez,Operations,Software Engineer,21/11/2016,Full-time,32,Female,Mombasa,2 PM - 10 PM,169,500,94640
+316,Robert Hernandez,Customer Service,Operations Manager,27/05/2021,Full-time,38,Male,Nakuru,12 AM - 8 AM,162,450,76545
+317,James Davis,Sales,Customer Support Rep,29/01/2020,Part-time,29,Male,Eldoret,10 AM - 6 PM,163,550,103097.5
+318,Robert Garcia,Finance,Software Engineer,18/03/2023,Full-time,40,Male,Nairobi,4 PM - 12 AM,128,700,96768
+319,Patricia Smith,Operations,Sales Executive,24/11/2019,Part-time,47,Female,Mombasa,6 AM - 2 PM,130,500,72800
+320,William Smith,HR,Software Engineer,12/01/2020,Full-time,40,Male,Kisumu,8 AM - 4 PM,155,600,97650
+321,David Lopez,Finance,Operations Manager,24/03/2019,Full-time,39,Male,Eldoret,8 AM - 4 PM,166,700,125496
+322,Jennifer Garcia,Finance,Financial Analyst,03/05/2025,Full-time,27,Male,Nairobi,8 AM - 4 PM,153,700,115668
+323,Jennifer Hernandez,Operations,Operations Manager,09/04/2020,Full-time,27,Non-binary,Nakuru,2 PM - 10 PM,166,500,92960
+324,Michael Jones,Operations,Customer Support Rep,18/07/2017,Full-time,52,Non-binary,Eldoret,2 PM - 10 PM,147,500,82320
+325,James Brown,HR,HR Specialist,13/10/2022,Part-time,34,Male,Nairobi,8 AM - 4 PM,141,600,88830
+326,Robert Garcia,HR,Software Engineer,03/04/2019,Part-time,52,Non-binary,Kisumu,8 AM - 4 PM,138,600,86940
+327,Susan Williams,IT,Software Engineer,16/11/2020,Full-time,22,Non-binary,Eldoret,9 AM - 5 PM,174,800,153120
+328,Susan Garcia,Sales,Financial Analyst,16/12/2023,Part-time,30,Female,Eldoret,10 AM - 6 PM,139,550,87917.5
+329,Jennifer Garcia,IT,Financial Analyst,16/02/2018,Part-time,59,Non-binary,Nakuru,9 AM - 5 PM,159,800,139920
+330,James Smith,IT,Sales Executive,24/09/2018,Part-time,29,Female,Mombasa,9 AM - 5 PM,130,800,114400
+331,Robert Davis,IT,Financial Analyst,24/11/2025,Full-time,34,Female,Thika,9 AM - 5 PM,133,800,117040
+332,John Miller,HR,Customer Support Rep,06/03/2016,Part-time,28,Non-binary,Thika,8 AM - 4 PM,171,600,107730
+333,Susan Brown,Finance,Sales Executive,07/04/2018,Full-time,47,Non-binary,Eldoret,8 AM - 4 PM,131,700,99036
+334,William Davis,IT,Financial Analyst,07/12/2024,Part-time,37,Male,Nakuru,9 AM - 5 PM,180,800,158400
+335,Susan Williams,IT,Operations Manager,26/08/2017,Full-time,57,Non-binary,Nairobi,9 AM - 5 PM,170,800,149600
+336,Elizabeth Brown,Sales,Sales Executive,08/11/2016,Full-time,24,Female,Eldoret,10 AM - 6 PM,155,550,98037.5
+337,Robert Smith,HR,Customer Support Rep,16/07/2021,Full-time,45,Male,Nairobi,8 AM - 4 PM,154,600,97020
+338,William Jones,Customer Service,Software Engineer,31/05/2019,Part-time,31,Male,Nairobi,12 AM - 8 AM,138,450,65205
+339,John Lopez,HR,Sales Executive,05/02/2021,Part-time,23,Female,Mombasa,8 AM - 4 PM,137,600,86310
+340,Michael Johnson,HR,Software Engineer,18/05/2024,Part-time,54,Non-binary,Eldoret,8 AM - 4 PM,141,600,88830
+341,William Brown,IT,HR Specialist,19/12/2024,Full-time,55,Non-binary,Eldoret,9 AM - 5 PM,127,800,111760
+342,Linda Smith,IT,Sales Executive,06/06/2022,Full-time,40,Non-binary,Nairobi,9 AM - 5 PM,161,800,141680
+343,John Williams,Sales,Customer Support Rep,28/12/2021,Part-time,38,Male,Thika,10 AM - 6 PM,125,550,79062.5
+344,Michael Garcia,Operations,Operations Manager,05/05/2020,Full-time,25,Non-binary,Kisumu,6 AM - 2 PM,166,500,92960
+345,Linda Johnson,Sales,Operations Manager,05/06/2024,Part-time,30,Female,Nairobi,10 AM - 6 PM,172,550,108790
+346,David Brown,Finance,Sales Executive,07/05/2019,Full-time,55,Male,Thika,8 AM - 4 PM,153,700,115668
+347,William Williams,Customer Service,Customer Support Rep,29/04/2024,Full-time,41,Female,Mombasa,4 PM - 12 AM,151,450,71347.5
+348,Linda Jones,IT,Financial Analyst,21/03/2017,Full-time,52,Male,Nairobi,9 AM - 5 PM,159,800,139920
+349,Elizabeth Rodriguez,Customer Service,Customer Support Rep,28/07/2017,Full-time,34,Female,Mombasa,4 PM - 12 AM,154,450,72765
+350,Michael Garcia,Operations,Software Engineer,26/06/2020,Full-time,26,Non-binary,Eldoret,2 PM - 10 PM,160,500,89600
