@@ -41,3 +41,19 @@ Export Options
 Export all employees or filtered subsets to CSV.
 
 Safe synthetic data for training and testing.
+
+📑 Data Dictionary – Payroll Simulator Dataset
+Column Name	Description
+ID	Unique employee identifier (e.g., 001, 002).
+Name	Randomly generated employee full name.
+Department	Assigned department (IT, HR, Finance, Operations, Sales, Customer Service).
+Job Title	Randomly assigned role within the department (e.g., Software Engineer).
+Hire Date	Synthetic hire date within the last 10 years.
+Status	Employment type: Full-time or Part-time.
+Age	Randomly generated age (22–60).
+Gender	Randomly assigned gender (Male, Female, Non-binary).
+Location	Randomly assigned city (Nairobi, Mombasa, Kisumu, Eldoret, Nakuru, Thika).
+Shift	Assigned work shift (e.g., 9 AM – 5 PM).
+Hours Worked	Monthly hours worked (random between 120–180).
+Hourly Rate	Base hourly rate determined by department rules.
+Monthly Pay	Calculated pay = (Hourly Rate × Hours Worked) + Department Bonus.
